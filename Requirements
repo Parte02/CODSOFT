@@ -1,9 +1,0 @@
-### `requirements.txt`
-
-```plaintext
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-```
